@@ -1,2 +1,2 @@
 # CenterAim
-Mira travada para Survivalcraft 2. Assim como no Pc
+A simple mod. I didn't make it.
