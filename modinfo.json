@@ -1,0 +1,14 @@
+{
+  "Name": "Center Aim - Mira Central",
+  "Version": "1.0.0",
+  "ApiVersion": "1.9.3",
+  "Description": "Mira central no celular, igual ao PC: a camera fica livre enquanto voce mira.",
+  "ScVersion": "2.4.0.0",
+  "LoadOrder": 10000,
+  "NonPersistentMod": true,
+  "GameplayImpactLevel": "Assist",
+  "Author": "Voce",
+  "PackageName": "user.CenterAimMod",
+  "Dependencies": {},
+  "Settings": []
+}
